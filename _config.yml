@@ -1,0 +1,28 @@
+name: John Random
+favicon: null
+layout_spectrum: 0.5381307255011052
+typography_spectrum: 0.26314992900006473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4673852308187634
+  lightness: 0.4479698392096907
+  saturation: 0.8409846909344196
+  rhythmicContrast: 0.22270537447184324
+purpose: []
