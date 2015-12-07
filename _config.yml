@@ -1,6 +1,6 @@
 name: John Random
 favicon: null
-layout_spectrum: 0.5381307255011052
+layout_spectrum: 0.74875
 typography_spectrum: 0.26314992900006473
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4673852308187634
-  lightness: 0.4479698392096907
-  saturation: 0.8409846909344196
-  rhythmicContrast: 0.22270537447184324
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
